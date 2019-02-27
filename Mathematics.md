@@ -1,0 +1,296 @@
+## Mathematics
+
+### Categories
+
+- Fundamentals
+- Number Theory
+- Combinatorics
+- Algebra
+- Geometry
+- Probability
+- Linear Algebra Foundations
+
+### Problems
+
+- Maximum Draws
+- Handshake
+- Minimum Height Triangle
+- Army Game
+- Leonardo's Prime Factors
+- Connecting Towns
+- Cutting Paper Squares
+- Summing the N series
+- Sherlock and Moving Tiles
+- Best Divisor
+- Restaurant
+- Reverse Game
+- Strange Grid Again
+- Diwali Lights
+- Sherlock and Divisors
+- Sherlock and Permutations
+- Even Odd Query
+- Special Multiple
+- Matrix Tracing
+- Die Hard 3
+- Halloween party
+- Filling Jars
+- Is Fibo
+- K Candy Store
+- Sumar and the Floating Rocks
+- Russian Peasant Exponentiation
+- Bus Station
+- Most Distant
+- Jim and the Jokes
+- Possible Path
+- Mutual Recurrences
+- Constructing a Number
+- Closest Number
+- Sherlock and GCD
+- Primitive Problem
+- Identify Smith Numbers
+- Euler's Criterion
+- Twins
+- Fibonacci Finding (easy)
+- Little Panda Power
+- Mehta and his Laziness
+- Minimal Distance to Pi
+- Help Mike
+- Dancing in Pairs
+- The Chosen One
+- Power of large numbers
+- Salary Blues
+- Akhil and GF
+- Little Ashish's Huge Donation
+- Manasa and Factorials
+- Number of zero-xor subsets
+- Breaking Sticks
+- Cheese and Random Toppings
+- Easy GCD
+- Satisfactory Pairs
+- Manasa loves Maths
+- Largest Non-Coprime Submatrix
+- John and GCD list
+- Divisor Exploration II
+- Strange numbers
+- Easy math
+- Equations
+- Binomial Coefficients
+- Lucy and Flowers
+- Divisor Exploration 3
+- Superpowers of 2
+- Sherlock Puzzle
+- Divisibility of Power
+- Devu Vs Police
+- A Weird Function
+- Coprime Conundrum
+- Long Permutation
+- Megaprime Numbers
+- Divisor Exploration
+- Ants
+- Ichigo and Cubes
+- Scalar Products
+- Prime Sum
+- Number of M-Coprime Arrays
+- Hyperrectangle GCD
+- nCr
+- Chandrima and XOR
+- Find The Operations
+- Fibonacci GCD
+- Ichigo and Rooms
+- A Very Special Multiple
+- Fibonacci LCM
+- Unfriendly Numbers
+- HackerRank Number
+- Ajob Subsequence
+- GCD Product
+- The Bouncing Flying Ball
+- Eugene and Big Number
+- Matrix Tree
+- Period
+- Nice Clique
+- Order of Prime in Factorial
+- Degree of an algebraic number
+- Computer Virus
+- GCD Sequence
+- Coprime Power Sum
+- Fun with 1010
+- GCD mocktail
+- Laser Beam
+- Down the Rabbit Hole
+- Minion of the Year
+- Bear And Cryptography
+- nCr table
+- Coinage
+- Building a List
+- Merge List
+- A Chocolate Fiesta
+- Mehta and the Typical Supermarket
+- Choose and Calculate
+- Sherlock and Pairs
+- Consecutive Subsequences
+- Anti-Palindromic Strings
+- Lexicographic paths
+- Number List
+- Game Of Thrones - II
+- Journey to Mars
+- Super Humble Matrix
+- Volleyball Match
+- Picking Cards
+- Cyclic Quadruples
+- Permutation Problem
+- Longest Increasing Subsequence Arrays
+- Digit Products
+- Towers
+- Introduction to Representation Theory
+- Tile Painting: Revisited!
+- Beautiful Sets
+- Alien Flowers
+- Tower 3-coloring
+- Count Fox Sequences
+- Manasa and Combinatorics
+- Coloring Grid
+- Grid Lines
+- Div and Span
+- Highway Construction
+- Value of all Permutations
+- Farmer
+- Irresponsible Numbers
+- Academy Surveillance
+- Parity Party
+- Ichigo and Revenge
+- String Modification
+- Binomial Coefficients Revenge
+- Circles Math
+- To Heap or Not to Heap
+- Sasha and Swaps
+- k-balance number
+- Powercode
+- Insane DFS
+- How Many Trees?
+- Strongly Connected Digraphs
+- Robanukkah Tree
+- Teleporters
+- Costly Graphs
+- Bridges and Harbors
+- Count Palindromes
+- Cycle Representation
+- To Infinity and Beyond
+- Byteland Itinerary
+- Combo Meal
+- Stepping Stones Game
+- Shashank and List
+- Triangle Numbers
+- Little Gaurav and Sequence
+- Easy sum
+- Difference and Product
+- Pythagorean Triple
+- Pairwise Sum and Divide
+- Number Groups
+- Tell the Average
+- Game Of Rotation
+- Hackonacci Matrix Rotations
+- Power Calculation
+- Wet Shark and 42
+- Sherlock and Square
+- Birthday Triplets
+- Sherlock and Queries
+- Manasa and Sub-sequences
+- Count Solutions
+- Summing the K-N series
+- XOR love
+- Manasa and Calculations
+- Simple One
+- The Simplest Sum
+- Circle Summation
+- Girlfriend & Necklace
+- Manasa and Pizza
+- Signal Tower
+- Summing the K-N-R Series
+- The Axis of Awesome
+- Emma and sum of products
+- Fun With Series
+- Permutation Equations
+- Counting Equations
+- Calculate It
+- Rational Sums
+- Introduction to Algebra
+- Cross Matrix
+- Introduction to Algebra 2
+- The Black Box
+- Black Hole
+- Minimal Cyclic Shift
+- Points On a Line
+- Rectangular Game
+- Sherlock and Counting
+- Sherlock and Planes
+- Circle City
+- Xrange's Pancakes
+- Spheres
+- Baby Step, Giant Step
+- Points on a Rectangle
+- A Circle and a Square
+- Jim Beam
+- Hyperspace Travel
+- Solve Equations
+- Stars
+- Polar Angles
+- Sherlock and Geometry
+- Good Point
+- Hard Homework
+- Polygons
+- Polygon
+- Meeting Point
+- House Location
+- Jim and the Challenge
+- The Letter N
+- Best Sum
+- Geometry Queries
+- Count Triangles
+- Isosceles Triangles
+- Elastic rope
+- Painting Figures
+- Random number generator
+- Sherlock and Probability
+- Day 4: Normal Distribution #1
+- Day 4: Normal Distribution #2
+- Vertical Sticks
+- Normal Distribution #3
+- B'day Gift
+- Extremely Dangerous Virus
+- The Matchstick Experiment
+- Palindromes
+- Lazy Sorting
+- Binomial Distribution #1
+- Binomial Distribution #2
+- Binomial Distribution #3
+- Kevin and Expected Value
+- The White Lotus and Caterpillar game
+- Assignment Problem
+- Connect the country
+- Random Integers Random Bits
+- Dice Stats
+- Magic Number Tree
+- Random Number Generator
+- Zombie March***
+- Bear and Dancing
+- Randomness
+- Random
+- Mathematical Expectation
+- Colorful Polygon
+- Linear Algebra Foundations #1 - Matrix Addition
+- Linear Algebra Foundations #2 - Matrix Subtraction
+- Linear Algebra Foundations #3- Matrix Multiplication
+- Linear Algebra Foundations #4- Matrix Multiplication
+- Linear Algebra Foundations #5 - The 100th Power of a Matrix
+- Linear Algebra Foundations #6 - An Equation involving Matrices
+- Linear Algebra Foundations #7 - The 1000th Power of a Matrix
+- Linear Algebra Foundations #8 - Systems of Equations
+- Linear Algebra Foundations #9 - Eigenvalues
+- Linear Algebra Foundations #10 - Eigenvectors
+- Determinant of the matrix #1
+- Determinant of the matrix #2
+- Determinant of the matrix #3
+- Eigenvalue of a Matrix I
+- Eigenvalue of matrix #2
+- Eigenvalue of matrix #3
+- Eigenvalue of matrix #4
