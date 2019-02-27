@@ -1,0 +1,122 @@
+## Dataa Structure
+
+- 2D Array - DS
+- Dynamic Array
+- Left Rotation
+- Sparse Arrays
+- Array Manipulation
+- Print the Elements of a Linked List
+- Insert a Node at the Tail of a Linked List
+- Insert a node at the head of a linked list
+- Insert a node at a specific position in a linked list
+- Delete a Node
+- Print in Reverse
+- Reverse a linked list
+- Compare two linked lists
+- Merge two sorted linked lists
+- Get Node Value
+- Delete duplicate-value nodes from a sorted linked list
+- Cycle Detection
+- Find Merge Point of Two Lists
+- Inserting a Node Into a Sorted Doubly Linked List
+- Reverse a doubly linked list
+- Tree: Preorder Traversal
+- Tree: Postorder Traversal
+- Tree: Inorder Traversal
+- Tree: Height of a Binary Tree
+- Tree : Top View
+- Tree: Level Order Traversal
+- Binary Search Tree : Insertion
+- Tree: Huffman Decoding
+- Binary Search Tree : Lowest Common Ancestor
+- Swap Nodes [Algo]
+- Kitty's Calculations on a Tree
+- Is This a Binary Search Tree?
+- Square-Ten Tree
+- Balanced Forest
+- Jenny's Subtrees
+- Tree Coordinates
+- Array Pairs
+- Self Balancing Tree
+- Array and simple queries
+- Median Updates
+- Merging Communities
+- QHEAP1
+- Maximum Element
+- Queue using Two Stacks
+- Components in a graph
+- Balanced Brackets
+- Jesse and Cookies
+- Castle on the Grid
+- Kundu and Tree
+- Find the Running Median
+- Down to Zero II
+- Equal Stacks
+- Minimum Average Waiting Time
+- Truck Tour
+- Game of Two Stacks
+- Largest Rectangle
+- Queries with Fixed Length
+- Super Maximum Cost Queries
+- Simple Text Editor
+- Poisonous Plants
+- AND xor OR
+- Waiter
+- Contacts
+- Data Structures MCQ 1
+- No Prefix Set
+- Data Structures MCQ 2
+- Data Structures MCQ 3
+- Kindergarten Adventures
+- Cube Summation
+- Mr. X and His Shots
+- Direct Connections
+- Subsequence Weighting
+- Jim and the Skyscrapers
+- Palindromic Subsets
+- Counting On a Tree
+- Polynomial Division
+- Costly Intervals
+- The Strange Function
+- Self-Driving Bus
+- Unique Colors
+- Fibonacci Numbers Tree
+- Pair Sums
+- Functional Palindromes
+- Lazy White Falcon
+- Ticket to Ride
+- Heavy Light White Falcon
+- Sum of the Maximums
+- Number Game on a Tree
+- Heavy Light 2 White Falcon
+- Library Query
+- Starfleet
+- Almost Equal - Advanced
+- Almost sorted interval
+- Burger Happiness
+- Roy and alpha-beta trees
+- Coloring Tree
+- Recalling Early Days GP with Trees
+- Swaps and Sum
+- Arithmetic Progressions
+- Coolguy and Two Subsequences
+- White Falcon And Tree
+- Subtrees And Paths
+- Triplets
+- Beautiful Segments
+- Divisibility
+- BST maintenance
+- Find Maximum Index Product
+- Taxicab Driver's Problem
+- Jaggu Playing with Balloons
+- Dynamic Summation
+- Two Array Problem
+- Rooted Tree
+- The crazy helix
+- Network administration
+- Easy Addition
+- Find the permutation
+- Company Retreat
+- Box Operations
+- Max Transform
+- Array and Queries
