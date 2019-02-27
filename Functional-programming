@@ -1,0 +1,107 @@
+## Functional Programming 
+
+## SUBDOMAINS
+
+- Introduction
+- Recursion
+- Functional Structures
+- Memoization and DP
+- Persistent Structures
+- Ad Hoc
+- Parsers
+- Interpreter and Compilers
+
+## Problems
+
+- Hello World
+- Hello World N Times
+- List Replication
+- Filter Array
+- Filter Positions in a List
+- Array Of N Elements
+- Reverse a List
+- Sum of Odd Elements
+- List Length
+- Update List
+- Evaluating e^x
+- Area Under Curves and Volume of Revolving a Curve
+- Lambda Calculus - Reductions #1
+- Lambda Calculus - Reductions #2
+- Lambda Calculus - Reductions #3
+- Lambda Calculus - Reductions #4
+- Lambda Calculus - Evaluating Expressions #1
+- Lambda Calculus - Evaluating Expressions #2
+- Lambda Calculus - Evaluating Expressions #3
+- Lambda Calculus - Evaluating Expressions #4
+- Lambda Calculus - Evaluating Expressions #5
+- Functions or Not?
+- Compute the Perimeter of a Polygon
+- Compute the Area of a Polygon
+- Computing the GCD
+- Fibonacci Numbers
+- Pascal's Triangle
+- Functions and Fractals: Sierpinski triangles
+- String Mingling
+- String-o-Permute
+- Functions and Fractals - Recursive Trees
+- Convex Hull
+- String Compression
+- Crosswords-101
+- Prefix Compression
+- String Reductions
+- Super-Queens on a Chessboard
+- The Sums of Powers
+- Sequence full of colors
+- Filter Elements
+- Super Digit
+- The Tree Of Life
+- Concave Polygon
+- Swap Nodes
+- Matrix Rotation
+- Valid BST
+- Lists and GCD
+- Prison Transport
+- Substring Searching
+- Order exercises
+- John and Fences
+- Range Minimum Query
+- Stock Prediction
+- Mirko at the Construction Site
+- Tree manager
+- Fighting Armies
+- Number of Binary Search Tree
+- Pentagonal Numbers
+- Bitter Chocolate
+- Fibonacci
+- Reverse Factorization
+- Different Ways
+- Dice Path
+- Bangalore Bank
+- Sherlock and the Maze
+- Password Cracker FP
+- Expressions
+- Klotski
+- Minimum Multiple
+- Messy Medians
+- Boleyn Salary
+- Jumping Bunnies
+- Rotate String
+- Remove Duplicates
+- Huge GCD
+- Kundu And Bubble Wrap
+- Missing Numbers (FP)
+- Common Divisors
+- Mangoes
+- Game of Kyles
+- Subset Sum
+- Elementary Watson
+- Captain Prime
+- Puzzle and PC
+- [Approximate Challenge] Convolutional Coding
+- Expressions V2
+- Simplify the Algebraic Expressions
+- While Language
+- Intuitive language
+- Down With Abstractions
+- Infer
+- BrainF__k interpreter
